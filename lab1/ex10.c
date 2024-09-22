@@ -24,6 +24,6 @@ int main(){
     if (distance < radius){
         printf("The point is INSIDE the circle");
     }
-
+    
     return 0;
 }
